@@ -1,5 +1,5 @@
 {
-	"name": "ircmaxell/php-math-parser",
+	"name": "czmole/php-math-parser",
 	"description": "A simple shunting-yard based math parser and executor for PHP",
 	"version": "0.0.1",
 	"keywords": ["math", "eval"],
